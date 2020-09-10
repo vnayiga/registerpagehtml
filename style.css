@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(100,185,255) blue;
+
+}
+
+#header {
+    text-align: right;
+    padding: 20px 10px;
+    background-color: white;
+}
